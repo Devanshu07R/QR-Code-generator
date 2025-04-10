@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="QR gen.mp4" width="500"/>
+</p>
 # 🔳 QR-Code-generator
 🔳 QR Code Generator – Create Custom QR Codes Instantly!
 A fast and efficient QR Code Generator built with HTML, Tailwind CSS, and JavaScript. Generate QR codes instantly for any text, URL, or contact information. With a sleek and responsive design, this app ensures smooth performance and easy sharing.
