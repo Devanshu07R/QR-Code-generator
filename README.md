@@ -21,4 +21,4 @@ A fast and efficient QR Code Generator built with HTML, Tailwind CSS, and JavaSc
 
 🚀 Live Demo & Contributions
 🔗 Live Demo: https://devanshu07r.github.io/QR-Code-generator/
-📌 Star ⭐ this project & contribute!
+📌 Star ⭐ this project & contribute!vccc
