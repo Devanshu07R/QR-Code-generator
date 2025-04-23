@@ -8,7 +8,7 @@
 A fast and efficient QR Code Generator built with HTML, Tailwind CSS, and JavaScript. Generate QR codes instantly for any text, URL, or contact information. With a sleek and responsive design, this app ensures smooth performance and easy sharing.
 
 ✨ Features
-✅ Instant QR Code Generation – Convert text, URLs, or data into QR codes effortlessly.gfxxggçdf
+✅ Instant QR Code Generation – Convert text, URLs, or data into QR codes effortlessly.
 ✅ Customizable Size & Color – Personalize QR codes to match your style.
 ✅ Download as Image – Save your QR code as a PNG for easy sharing.
 ✅ Fast & Lightweight – No extra dependencies, ensuring smooth performance.
