@@ -17,7 +17,7 @@ A fast and efficient QR Code Generator built with HTML, Tailwind CSS, and JavaSc
 🛠️ Tech Stack
 🔹 HTML – Provides the structure of the app.
 🔹 Tailwind CSS – Creates a modern and responsive UI.
-🔹 JavaScript – Generates and customizes QR codes dynamically.
+🔹 JavaScript – Generates and customizes QR codes dynamically.gfxxcggbvvccccc
 
 🚀 Live Demo & Contributions
 🔗 Live Demo: https://devanshu07r.github.io/QR-Code-generator/
