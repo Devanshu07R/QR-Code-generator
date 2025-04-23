@@ -14,7 +14,7 @@ A fast and efficient QR Code Generator built with HTML, Tailwind CSS, and JavaSc
 ✅ Fast & Lightweight – No extra dependencies, ensuring smooth performance.
 ✅ Fully Responsive – Works seamlessly on desktop, tablet, and mobile devices.
 
-🛠️ Tech Stack
+🛠️ Tech Stack:
 🔹 HTML – Provides the structure of the app.
 🔹 Tailwind CSS – Creates a modern and responsive UI.
 🔹 JavaScript – Generates and customizes QR codes dynamically.
