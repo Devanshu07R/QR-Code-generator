@@ -1,6 +1,6 @@
 <video width="500" controls>
   <source src="QR gen.mp4" type="video/mp4">
-</video>
+</video>..
 
 
 # 🔳 QR-Code-generator
